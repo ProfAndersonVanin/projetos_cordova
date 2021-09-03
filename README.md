@@ -4,9 +4,9 @@ Aulas sobre desenvolvimento Mobile com Cordova
 
 Para o desenvolvimento do projeto aqui ilustrado, é necessário que se tenha instalado e configurado corretamente os seguintes recursos:
 * Java Development Kit 8 e Java RE 8 (runtime environment, ambiente de execução)
-* Android Studio
-* Gradle
-* NodeJS
-* Git
+* Android Studio - https://developer.android.com/studio
+* Gradle - https://gradle.org/
+* NodeJS - https://nodejs.org/en/
+* Git - (**opcional**) - https://git-scm.com/downloads 
 
 **Com relação ao Android Studio também é necessário que se tenha configurado uma imagem de um sistema operacional Android**
