@@ -10,3 +10,7 @@ Para o desenvolvimento do projeto aqui ilustrado, é necessário que se tenha in
 * Git - (**opcional**) - https://git-scm.com/downloads 
 
 **Com relação ao Android Studio também é necessário que se tenha configurado uma imagem de um sistema operacional Android**
+
+# Dicas para instalação:
+https://rafael.lv/outro-passo-a-passo-para-usar-o-apache-cordova-phonegap-com-android-sdk-no-windows/
+
